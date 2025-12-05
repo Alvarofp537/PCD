@@ -24,19 +24,6 @@ Para reproducir los experimentos:
 
 El proyecto asume esta ruta para cargar automáticamente todas las texturas.
 
----
-
-## Estructura del repositorio
-"""
-├── datos/ 
-├── extras/
-├── src/ 
-├── utils/
-├── .gitignore
-├── LICENSE
-├── Paper_PCD.pdf 
-└── README.md
-"""
 
 ---
 ##  Nota sobre el cuaderno LoRA / Stable Diffusion
