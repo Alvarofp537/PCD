@@ -27,6 +27,7 @@ El proyecto asume esta ruta para cargar automáticamente todas las texturas.
 ---
 
 ## Estructura del repositorio
+"""
 ├── datos/ 
 ├── extras/
 ├── src/ 
@@ -35,7 +36,7 @@ El proyecto asume esta ruta para cargar automáticamente todas las texturas.
 ├── LICENSE
 ├── Paper_PCD.pdf 
 └── README.md
-
+"""
 
 ---
 ##  Nota sobre el cuaderno LoRA / Stable Diffusion
